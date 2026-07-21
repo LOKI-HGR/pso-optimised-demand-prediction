@@ -29,8 +29,8 @@ Both variants train on `data/train.csv` and are evaluated on `data/test.csv`, us
 
 | | Train MAE | Test MAE |
 |---|---|---|
-| Baseline PSO | _add your value_ | _add your value_ |
-| Novel Variant PSO | _add your value_ | _add your value_ |
+| Baseline PSO | _34.41 ± 4.49_ | _39.06 ± 4.77_ |
+| Novel Variant PSO | _33.55 ± 0.0006_ | _8.17 ± 0.0005_ |
 
 *(Run both scripts and fill in your actual numbers here — a results table is one of the first things people look at.)*
 
